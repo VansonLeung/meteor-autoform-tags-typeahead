@@ -1,6 +1,6 @@
 Package.describe({
     name: 'vansonhk:autoform-tags-typeahead',
-    version: '0.7.1',
+    version: '0.7.2',
     summary: 'Provides a autoform tags input with typeahead functionality',
     git: 'https://github.com/VansonLeung/meteor-autoform-tags-typeahead',
     documentation: 'README.md'
